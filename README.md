@@ -32,7 +32,7 @@
 ## Featured Projects
 
 - **WILI – Would I Like It?** — TMDB-powered app where users pick moods/genres to create expressive grids and a mood wordcloud.  
-  [Live](https://denner25.github.io/se_project_wili) · [Repo](https://github.com/Denner25/se_project_wili)
+  [Live](https://wili.nya.pub) · [Repo](https://github.com/Denner25/se_project_wili)
 - **WTWR – What To Wear** — Full-stack weather-based clothing recommender with JWT auth and a Node/Express/Mongo backend.  
   [Live](https://wtwr.nya.pub) · [API](https://api.wtwr.nya.pub) · [Repo](https://github.com/Denner25/se_project_react)
 - **Around the U.S.** — Responsive photo-sharing app in vanilla JS (cards, modals, validation).  
