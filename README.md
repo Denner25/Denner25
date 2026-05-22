@@ -1,3 +1,4 @@
+```md
 # Hi, I’m Denner Cardoso 👋
 
 **Full-stack Software Engineering TripleTen graduate** — building responsive, user-centered web apps.
@@ -51,3 +52,4 @@
 - [LinkedIn](https://linkedin.com/in/dennertallyson)  
 - [Portfolio](https://github.com/Denner25)  
 - [GitHub](https://github.com/Denner25)
+```
